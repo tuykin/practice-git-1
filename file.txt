@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+Kazan is capital of Tatarstan
+Washington DC is capital of USA
